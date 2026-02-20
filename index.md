@@ -1,5 +1,3 @@
-### Grossfield Lab Publications
-
 
 ## Posters
 - Biophysical Society 2026
