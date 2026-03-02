@@ -39,7 +39,7 @@
   -  Developing an accurate all-atom fixed-charge force field for RNA with implicitly polarized charges,  Chapin E. Cavender, Louis G. Smith, Alan Grossfield, & David H. Mathews 
 
 - Biophysical Society 2018
-  - Identification of GPCR transition pathways using Go models. Salas-Estrada, L. A., Constable, S. J., Leioatts, N., Romo, T. D., and Grossfield A.,pdf](https://agrossfield.github.io/publications/posters_bps_2018/bps2018_leslie.pdf)
+  - Identification of GPCR transition pathways using Go models. Salas-Estrada, L. A., Constable, S. J., Leioatts, N., Romo, T. D., and Grossfield A.,[pdf](https://agrossfield.github.io/publications/posters_bps_2018/bps2018_leslie.pdf)
   - Membrane selectivity of an antimicrobial peptide using molecular dynamics, Sur, S., Romo, T. D., Grossfield, A., [pdf](https://agrossfield.github.io/publications/posters_bps_2018/bps2018_sreyoshi.pdf)
 
 - Biophysical Society 2017
