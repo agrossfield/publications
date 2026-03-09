@@ -1,4 +1,5 @@
-## Posters
+# Posters
+
 - Biophysical Society 2026
   - *Calculating local pKa of ionizable lipids in membranes with alchemical FEP calculations*, Akshara Sharma, Sreyoshi Sur, Farbod Mahmoudinobar, Frank C. Pickard IV, Alan Grossfield, [png](https://agrossfield.github.io/publications/posters_bps_2026/akshar_bps_2026.png)
 
@@ -13,13 +14,12 @@
 
   - “LOOS: a tool for making new tools for analyzing molecular simulations”, Tod D. Romo, Akshara Sharma, Louis G. Smith, Alan Grossfield, [pdf](https://agrossfield.github.io/publications/posters_bps_2025/loos-2025.pdf)
 
--  Biophysical Society 2024
-   - “Finite-site effect on the free energy landscape of phase separation in lipid bilayers estimated using molecular dynamics”, Ashlin Poruthoor, Akshara Sharma, Jack J. Stallone, Megan Miaro, Alan Grossfield [pdf](https://agrossfield.github.io/publications/posters_bps_2024/ashlin-2024.pdf)
+- Biophysical Society 2024
+  - “Finite-site effect on the free energy landscape of phase separation in lipid bilayers estimated using molecular dynamics”, Ashlin Poruthoor, Akshara Sharma, Jack J. Stallone, Megan Miaro, Alan Grossfield [pdf](https://agrossfield.github.io/publications/posters_bps_2024/ashlin-2024.pdf)
 
-   - “Application of molecular dynamics for the development of therapeutics against opioid overdose”, Emily N. Robinson, James M. Seckler, Alexander J. Crook, Stephen J. Lewis, Alan Grossfield [pdf](https://agrossfield.github.io/publications/posters_bps_2024/emily-2024.pdf)
+  - “Application of molecular dynamics for the development of therapeutics against opioid overdose”, Emily N. Robinson, James M. Seckler, Alexander J. Crook, Stephen J. Lewis, Alan Grossfield [pdf](https://agrossfield.github.io/publications/posters_bps_2024/emily-2024.pdf)
 
-   - “LOOS: A tool for making new tools for analyzing molecular simulations”, Tod D. Romo, Akshara Sharma, Louis G. Smith, and Alan Grossfield [pdf](https://agrossfield.github.io/publications/posters_bps_2024/loos-2024.pdf)
-
+  - “LOOS: A tool for making new tools for analyzing molecular simulations”, Tod D. Romo, Akshara Sharma, Louis G. Smith, and Alan Grossfield [pdf](https://agrossfield.github.io/publications/posters_bps_2024/loos-2024.pdf)
 
 - Biophysical Society 2023
   - Ashlin Poruthoor and Alan Grossfield, Accurate Estimation of free energy landscape of phase separation in lipid bilayers [pdf](https://agrossfield.github.io/publications/posters_bps_2023/ashlin-2023.pdf)
@@ -49,7 +49,7 @@
 
   - Exploring hydrogen bond geometry in RNA with F-SAPT, Louis G. Smith, Chapin E. Cavender, Alan Grossfield, and David H. Mathews [pdf](https://agrossfield.github.io/publications/posters_bps_2019/BPS2019_louis.pdf)
 
-  -  Developing an accurate all-atom fixed-charge force field for RNA with implicitly polarized charges,  Chapin E. Cavender, Louis G. Smith, Alan Grossfield, & David H. Mathews 
+  - Developing an accurate all-atom fixed-charge force field for RNA with implicitly polarized charges,  Chapin E. Cavender, Louis G. Smith, Alan Grossfield, & David H. Mathews 
 
 - Biophysical Society 2018
   - Identification of GPCR transition pathways using Go models. Salas-Estrada, L. A., Constable, S. J., Leioatts, N., Romo, T. D., and Grossfield A.,[pdf](https://agrossfield.github.io/publications/posters_bps_2018/bps2018_leslie.pdf)
