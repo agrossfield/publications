@@ -1,3 +1,4 @@
-
+- [Research](/research.md)
+- [People](/people.md)
 - [Papers](/papers.md)
 - [Posters](/posters.md)
