@@ -22,9 +22,12 @@ title: Grossfield Lab
 email: alan_grossfield@urmc.rochester.edu
 description: Grossfield Lab Website
 baseurl: "/" 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://grossfieldlab.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  agrossfield
+repository: "agrossfield/publications"
+
+search: true 
 
 # Build settings
 #theme: modernist
