@@ -2,3 +2,4 @@
 - [People](/people.md)
 - [Papers](/papers.md)
 - [Posters](/posters.md)
+- [Software](/software.md)
