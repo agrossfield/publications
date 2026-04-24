@@ -1,11 +1,11 @@
 main:
   - title: "Research"
-    url: /research.md
+    url: /research
   - title: "People"
-    url: /people.md
-  - title: "Papers"
-    url: /papers.md
+    url: /people
+  - title: "Publications"
+    url: /papers
   - title: "Posters"
-    url: /posters.md
+    url: /posters
   - title: "Software"
-    url: /software.md  
+    url: /software  

@@ -1,4 +1,7 @@
-# People
+---
+layout: single
+title: People
+--- 
 
 - PI: Dr. Alan Grossfield
 - Current Lab Members

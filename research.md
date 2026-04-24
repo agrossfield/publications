@@ -1,4 +1,7 @@
-# Research 
+---
+layout: single
+title: Research
+---
 
 - Current topics
   - Cysteine derivatives as therapeutics for opioid overdose and abuse
