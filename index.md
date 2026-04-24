@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 ---
 - [Research](/research.md)
 - [People](/people.md)
