@@ -3,6 +3,8 @@ main:
     url: /research
   - title: "People"
     url: /people
+  - title: "Grad Programs"
+    url: /gradprograms
   - title: "Publications"
     url: /papers
   - title: "Posters"
