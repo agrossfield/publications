@@ -31,6 +31,9 @@ github_username:  agrossfield
 #remote_theme: pages-themes/modernist@v0.2.0
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
+minimal_mistakes_skin: "air" # "default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
