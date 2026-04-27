@@ -16,6 +16,12 @@ bioRxiv 2026.04.06.716676; doi: https://doi.org/10.64898/2026.04.06.716676
 
 1. Rasouli A, Pickard IV, F. C., Sur, S., Grossfield, A., and Bennet, Mehtap Isik.
 Essential Considerations for Free Energy Calculations of RNA−Small Molecule Complexes: Lessons from the Theophylline-Binding RNA Aptamer, J. Chem Inf. Model, 2025, 65, 223-239, [pdf](/papers/jcim_2025.pdf)
+
+1. Poruthoor, A. J., Stallone, J. J., Miaro, M., Sharma, A., and Grossfield, A., System size effects on the free energy landscapes from molecular dynamics of phase-separating bilayers, 2024, 161:145101.  doi: 10.1063/5.0225753, [pdf](/papers/jcp_2024.pdf)
+
+1. Dehghani-Ghahnaviyeh S, Smith M, Xia Y, Dousis A, Grossfield A, Sur S., 5
+Ionizable Amino Lipids Distribution and Effects on DSPC/Cholesterol Membranes: Implications for Lipid Nanoparticle Structure, J Phys Chem B. 2023 Aug 10;127(31):6928-6939. doi: 10.1021/acs.jpcb.3c01296, [pdf](/papers/jpcb_2023.pdf)
+
 1. Poruthoor, A. J, Sharma, A., and Grossfield, A. Understanding the free-energy landscape of phase separation in lipid bilayers using molecular dynamics. Biophysical J. (2023), 122, 1-16, [pdf](/papers/bj_2023.pdf)
 2. Seckler, J. M., Robinson, E. N., Lewis, S. J. & Grossfield, A. Surveying nonvisual arrestins reveals allosteric interactions between functional sites. Proteins Struct Funct Bioinform (2022) doi:10.1002/prot.26413, [pdf](/papers/proteins_2022.pdf)
 3. Sreyoshi Sur and Alan Grossfield, “Effects of cholesterol on the mechanism of fengycin, a biofungicide“, Biophysical Journal, 2022, 121, 1-12, [pdf](/papers/bj_2022.pdf)
