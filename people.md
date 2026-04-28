@@ -16,9 +16,9 @@ title: People
 - Former Grad students and Postdocs
   - Dr. Tod D. Romo (staff scientist)
   - Dr. James Seckler (postdoc)
-  - Dr. Josh Horn (graduate student)
-  - Dr. Nicholas Leiotts (graduate student)
-  - Dr. Dejun Lin (graduate student)
+  - Dr. Josh Horn 
+  - Dr. Nicholas Leiotts 
+  - Dr. Dejun Lin 
   - Dr. Leslie Salas Estrada
   - Dr. Sreyoshi Sur
   - Dr. Ashlin James Poruthoor
