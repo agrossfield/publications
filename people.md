@@ -17,7 +17,7 @@ title: People
   - Dr. Tod D. Romo (staff scientist)
   - Dr. James Seckler (postdoc)
   - Dr. Josh Horn 
-  - Dr. Nicholas Leiotts 
+  - Dr. Nicholas Leioatts 
   - Dr. Dejun Lin 
   - Dr. Leslie Salas Estrada
   - Dr. Sreyoshi Sur
