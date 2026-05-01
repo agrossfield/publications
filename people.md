@@ -11,7 +11,8 @@ title: People
 - Current Lab Members
   - Akshara Sharma (graduate student)
   - Sergei Eliseev (graduate student)
-  - Sebastiao Martin (graduate student, co-advised with Dr. Ben Miller)  
+  - Sebastião Martin (graduate student, co-advised with Dr. Ben Miller)  
+    - [ORCID](https://orcid.org/0009-0000-4506-433X)
   - Mathias Yournet (undergraduate)
 
 - Former Grad students and Postdocs
