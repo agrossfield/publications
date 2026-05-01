@@ -6,6 +6,7 @@ title: People
 - Dr. Alan Grossfield
   - [ORCID](https://orcid.org/0000-0002-5877-2789)
   - [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F61q97F8qUEuTpYsAYoxNFQgXKGpY_PAE7_Bexec_f1zNCkNSIQ7rG7lIBPFK6dR8hhJLkiPULEM1EmaGrxKTJTdmjLf4kbEfRfrFnxEWqSr4diI_g&user=VZI-Aj8AAAAJ)
+  - [Email](mailto:alan_grossfield@urmc.rochester.edu)
 
 - Current Lab Members
   - Akshara Sharma (graduate student)
