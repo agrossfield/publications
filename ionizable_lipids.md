@@ -11,7 +11,7 @@ nanoparticles under physiological conditions. These properties are crucial to th
 
 Publications in this area:
 
-- Dehghani-Ghahnaviyeh S, Smith M, Xia Y, Dousis A, Grossfield A, Sur S., 5
+- Dehghani-Ghahnaviyeh S, Smith M, Xia Y, Dousis A, Grossfield A, Sur S.,
 Ionizable Amino Lipids Distribution and Effects on DSPC/Cholesterol Membranes: Implications for Lipid Nanoparticle Structure, J Phys Chem B. 2023 Aug 10;127(31):6928-6939. doi: 10.1021/acs.jpcb.3c01296, [pdf](/papers/jpcb_2023.pdf)
 
 - Sreyoshi Sur, Alan Grossfield Theoretical estimate of the effective pKa of titratable lipids using continuum electrostatics
