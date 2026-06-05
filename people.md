@@ -14,11 +14,12 @@ title: People
   - Sebastião Martin (graduate student, co-advised with Dr. Ben Miller)  
     - [ORCID](https://orcid.org/0009-0000-4506-433X)
   - Mathias Yournet (undergraduate)
+  - Jessica Wu (undergraduate)
 
 - Former Grad students and Postdocs
   - Dr. Tod D. Romo (staff scientist)
   - Dr. James Seckler (postdoc)
-  - Dr. Josh Horn 
+  - Dr. Joshua Horn 
   - Dr. Nicholas Leioatts 
   - Dr. Dejun Lin 
   - Dr. Leslie Salas Estrada
