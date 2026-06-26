@@ -6,8 +6,8 @@ main:
   - title: "Grad Programs"
     url: /gradprograms
   - title: "Publications"
-    url: /papers
-  - title: "Posters"
-    url: /posters
+    url: /publications
   - title: "Software"
     url: /software  
+  - title: "Elena Fund"
+    url: /elena  
