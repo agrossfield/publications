@@ -5,7 +5,7 @@ permalink: /posters/
 ---
 
 - Biophysical Society 2026
-  - *Calculating local pKa of ionizable lipids in membranes with alchemical FEP calculations*, Akshara Sharma, Sreyoshi Sur, Farbod Mahmoudinobar, Frank C. Pickard IV, Alan Grossfield, [png](https://agrossfield.github.io/publications/posters_bps_2026/akshar_bps_2026.png)
+  - *Calculating local pKa of ionizable lipids in membranes with alchemical FEP calculations*, Akshara Sharma, Sreyoshi Sur, Farbod Mahmoudinobar, Frank C. Pickard IV, Alan Grossfield
 
   - *Application of molecular dynamics for development of therapeutics against opioid overdose*, Emily Weed-Nichols, Alexander J. Crook, Israel Burnell, Paulina M. Getsy, James M. Secker, Stephen J. Lewis, Alan Grossfield, [pdf](https://agrossfield.github.io/publications/posters_bps_2026/emily_bps_2026.pdf)
 
