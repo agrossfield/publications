@@ -4,6 +4,7 @@ title: Posters
 permalink: /posters/  
 ---
 
+- Presentation skills workshop 2026 [pdf](/posters_other/presentation_skills_2026.pdf)
 - Biophysical Society 2026
   - *Calculating local pKa of ionizable lipids in membranes with alchemical FEP calculations*, Akshara Sharma, Sreyoshi Sur, Farbod Mahmoudinobar, Frank C. Pickard IV, Alan Grossfield
 
