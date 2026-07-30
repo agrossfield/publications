@@ -10,6 +10,6 @@ feature_row:
 
 {% include feature_row %}
 
-Danielle Gilde and Alan Grossfield created this award to honor the memory of our daughter, Elena Gilde Grossfield.  Each year, two awards are given, to the best poster and best talk given by a student or postdoc at the annual Biophysics graduate retreat; the winners receive a check, and their names are added to a plaque hung the Stotz Room in the Department of Biochemistry and Biophysics at the University of Rochester Medical Center.
+Danielle Gilde and Alan Grossfield created this award to honor the memory of our daughter, Elena Gilde Grossfield.  Each year, two awards are given, to the best poster and best talk given by a student or postdoc at the annual Biophysics graduate retreat; the winners receive a check, and their names are added to a plaque hung the Stotz Room in the Department of Biochemistry and Biophysics at the University of Rochester Medical Center. As the fund grows, we may expand the prizes, but they will always be focused on presentations in biochemistry and biophysics.
 
-If you are interested in contributing to the "Elena Fund", you can follow this [link](https://securelb.imodules.com/s/1676/giving19/giving19.aspx?sid=1676&gid=2&pgid=11087&cid=17036&appealcode=17U09). When filling in the "Select Gift Designation" section, choose "Other - Write in", and write "Biophysics Endowment -- Elena fund" in the box.
+If you are interested in contributing to the "Elena Fund", you can follow this [link](https://securelb.imodules.com/s/1676/giving19/giving19.aspx?sid=1676&gid=2&pgid=11087&cid=17036&appealcode=17U09). When filling in the "Select Gift Designation" section, choose "Other - Write in", and write "Biophysics Endowment -- Elena fund" in the box. 
