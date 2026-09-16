@@ -4,6 +4,8 @@ title: Posters
 permalink: /posters/  
 ---
 
+- Gibbs Conference 2026 
+  -  *Physical basis of pKa shift for ionizable lipids in an LNP-like environment*, Akshara Sharma, Sreyoshi Sur, and Alan Grossfield [png](posters_other/Poster_Akshar_Gibbs_Sept_2026.png)
 - Presentation skills workshop 2026 [pdf](/posters_other/presentation_skills_2026.pdf)
 - Biophysical Society 2026
   - *Calculating local pKa of ionizable lipids in membranes with alchemical FEP calculations*, Akshara Sharma, Sreyoshi Sur, Farbod Mahmoudinobar, Frank C. Pickard IV, Alan Grossfield
