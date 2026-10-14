@@ -5,11 +5,15 @@ title: Publications
 
 ## Preprints
 
-1.  Emily Weed-Nichols, James M. Seckler, Paulina M. Getsy, Stephen J. Lewis, Alan Grossfield. A simple theory to explain super-additivity of highly similar drug combinations, 
-bioRxiv 2025.10.27.684841; [doi](https://doi.org/10.1101/2025.10.27.684841)
+1. Akshara Sharma, Sreyoshi Sur, Alan Grossfield. Physical Basis Of pKa Shift For Ionizable Lipids In An
+LNP-like Environment, bioRxiv; [biorxiv](https://doi.org/10.64898/2026.10.07.757025)
 
-2. Sreyoshi Sur, Alan Grossfield Theoretical estimate of the effective pKa of titratable lipids using continuum electrostatics
-bioRxiv 2026.04.06.716676; [doi](https://doi.org/10.64898/2026.04.06.716676)
+1.  Emily Weed-Nichols, James M. Seckler, Paulina M. Getsy, Stephen J. Lewis, Alan Grossfield. A simple theory to explain super-additivity of highly similar drug combinations, 
+bioRxiv 2025.10.27.684841; [biorxiv](https://doi.org/10.1101/2025.10.27.684841)
+
+2. Sreyoshi Sur, Alan Grossfield. Theoretical estimate of the effective pKa of titratable lipids using continuum electrostatics;
+bioRxiv 2026.04.06.716676; [biorxiv](https://doi.org/10.64898/2026.04.06.716676)
+
 
 
 ## Papers
